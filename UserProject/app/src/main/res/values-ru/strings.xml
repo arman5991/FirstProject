@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">UserProject</string>
+        <string name="title_activity_home">Начальное активити</string>
+        <string name="title_home">Начало</string>
+        <string name="title_dashboard">Панель приборов</string>
+        <string name="title_notifications">Уведомления</string>
+        <string name="title_activity_maps">Map</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="name">имя</string>
+        <string name="address">адрес</string>
+        <string name="to_order">заказать</string>
+        <string name="camera_info">информация камеры</string>
+        <string name="phone">phone</string>
+        <string name="email">эл. адрес</string>
+        <string name="number">номер</string>
+        <string name="send">отправить</string>
+        <string name="language">язык</string>
+        <string name="about">о нас</string>
+        <string name="traffic">Traffic</string>
+        <string name="my_photo">фото</string>
+        <string name="my_name">имя</string>
+        <string name="data">дата</string>
+        <string name="likes">лайки</string>
+        <string name="map">карта</string>
+        <string name="post">публикация</string>
+        <string name="favorite">избранное</string>
+        <string name="my_language">язык</string>
+        <string name="switch_my">переключить</string>
+        <string name="my_about">о нас</string>
+        <string name="cheng_map">Поменять радиус карты</string>
+        <string name="btn_update_radius">ok</string>
+        <string name="my_phone">телефон</string>
+        <string name="about_app">Приложение позволяет найти и заказать тех фотографов, которые находятся по близости.</string>
+        <string name="owner">Владелец</string>
+        <string name="members">Члены</string>
+        <string name="_2017_vtc_android_team">\@2017 ВТЦ Андроид Команда</string>
+        <string name="english">английский</string>
+        <string name="armenain">армянский</string>
+        <string name="german">немецкий</string>
+        <string name="spanish">испанский</string>
+        <string name="russian">русский</string>
+        <string name="Rating">Рейтинг</string>
+
+</resources>

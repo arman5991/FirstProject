@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UserProject</string>
+    <string name="title_activity_home">inicial actividad</string>
+    <string name="title_home">inicio</string>
+    <string name="title_dashboard">panel de control</string>
+    <string name="title_notifications">notificaciones</string>
+    <string name="title_activity_maps">mapa de sitio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">nombre</string>
+    <string name="address">dirección</string>
+    <string name="to_order">ordenar</string>
+    <string name="camera_info">Información de la cámara</string>
+    <string name="phone">teléfono</string>
+    <string name="email">correo electrónico</string>
+    <string name="cheng_map">Cambiar el radio del mapa</string>
+    <string name="btn_update_radius">Сorrecto</string>
+    <string name="my_phone">teléfono</string>
+    <string name="send">enviar</string>
+    <string name="number">número</string>
+    <string name="language">idioma</string>
+    <string name="about">sobre nosotros</string>
+    <string name="traffic">tráfico</string>
+    <string name="my_photo">foto</string>
+    <string name="my_name">nombre</string>
+    <string name="data">datos</string>
+    <string name="likes">me gusta</string>
+    <string name="map">mapa</string>
+    <string name="post">publicación</string>
+    <string name="favorite">favorito</string>
+    <string name="my_language">idioma</string>
+    <string name="switch_my">cambiar</string>
+    <string name="my_about">Sobre nosotros</string>
+    <string name="about_app">la aplicación permite buscar fotógrafos los cuales están cerca a tu ubicación y ordenar de ellos.</string>
+    <string name="owner">Dueño</string>
+    <string name="members">Miembros</string>
+    <string name="_2017_vtc_android_team">\@2017 equipo android VTC </string>
+    <string name="english">inglés</string>
+    <string name="armenain">armenio</string>
+    <string name="german">alemán</string>
+    <string name="spanish">español</string>
+    <string name="russian">ruso</string>
+    <string name="Rating">Clasificación</string>
+
+
+</resources>

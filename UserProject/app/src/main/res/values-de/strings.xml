@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UserProject</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Zuhause</string>
+    <string name="title_dashboard">Instrumententafel</string>
+    <string name="title_notifications">Benachrichtigungen</string>
+    <string name="title_activity_maps">Karte</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">name</string>
+    <string name="address">adresse</string>
+    <string name="to_order">bestellen</string>
+    <string name="camera_info">kamera-info</string>
+    <string name="phone">telefon</string>
+    <string name="email">Email</string>
+    <string name="cheng_map">Kartenradius ändern</string>
+    <string name="btn_update_radius">OK</string>
+    <string name="number">nummer</string>
+    <string name="send">Senden</string>
+    <string name="language">Sprache</string>
+    <string name="about">Über uns</string>
+    <string name="traffic">Traffic</string>
+    <string name="my_photo">mein foto</string>
+    <string name="my_name">name</string>
+    <string name="data">daten</string>
+    <string name="likes">likes</string>
+    <string name="map">karte</string>
+    <string name="post">post</string>
+    <string name="favorite">favorit</string>
+    <string name="my_language">Sprache</string>
+    <string name="switch_my">Schalter</string>
+    <string name="my_about">Über uns</string>
+    <string name="my_phone">Telefon</string>
+    <string name="about_app">Die Anwendung ermöglicht es Ihnen, nach Fotografen zu suchen, die sich in Ihrer Nähe befinden und bestellen.</string>
+    <string name="owner">Eigentümer</string>
+    <string name="members">Mitglieder</string>
+    <string name="_2017_vtc_android_team">\@2017 VTC Android Team</string>
+    <string name="english">englisch</string>
+    <string name="armenain">armenisch</string>
+    <string name="german">deutsche</string>
+    <string name="spanish">spanisch</string>
+    <string name="russian">russisch</string>
+    <string name="Rating">Bewertung</string>
+</resources>

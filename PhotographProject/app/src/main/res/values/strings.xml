@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">UserPhotograph</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="text_forgot_password">FORGOT PASSWORD?</string>
+    <string name="text_we_just_need_yuor_registered">We just need your registered Email Id to sent you password reset instructions</string>
+    <string name="text_email_hint">Email</string>
+    <string name="button_reset">RESET PASSWORD</string>
+    <string name="button_back">BACK</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading" />
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">sign in</string>
+    <string name="phone">phone</string>
+    <string name="address">address</string>
+    <string name="name">name</string>
+    <string name="camera_info">camera info</string>
+    <string name="add_avatar">add avatar</string>
+    <string name="save">save</string>
+    <string name="minimum_password" />
+    <string name="auth_failed" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="choose_photo">choose photo</string>
+    <string name="upload_photo">upload photo</string>
+    <string name="save_all_info">save all info</string>
+    <string name="email">email</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="images">images</string>
+    <string name="position">position</string>
+    <string name="slideshow">slideshow</string>
+    <string name="removed">Removed</string>
+    <string name="canceled">Canceled</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="english">English</string>
+    <string name="german">German</string>
+    <string name="spanish">Spanish</string>
+    <string name="russian">Russian</string>
+    <string name="armenain">Armenian</string>
+    <string name="full_name">full name</string>
+    <string name="photo_title">Photo title</string>
+    <string name="map">Map</string>
+    <string name="settings">Settings</string>
+    <string name="posts">Posts</string>
+    <string name="about">About</string>
+    <string name="language">Language</string>
+    <string name="log_out">Log Out</string>
+    <string name="about_app">The application is good opportunity for photographers to demonstrate their portfolio and find more clients.</string>
+    <string name="owner">Owner</string>
+    <string name="tigran_vanyan">Tigran Vanyan</string>
+    <string name="members">Members</string>
+    <string name="_2017_vtc_android_team">\@2017 VTC Android Team</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="full_name1">full name</string>
+    <string name="email1">email</string>
+    <string name="_0">0</string>
+    <string name="Rating">Rating</string>
+    <string name="to_order">to order</string>
+    <string name="my_phone">phone</string>
+    <string name="send">send</string>
+    <string name="Top_5_photographers">Top 5 photographers</string>
+    <string name="Uploading">Uploading ...</string>
+    <string name="Uploading1">Uploading ...</string>
+
+
+</resources>

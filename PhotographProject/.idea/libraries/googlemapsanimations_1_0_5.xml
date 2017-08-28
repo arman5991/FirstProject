@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="googlemapsanimations-1.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/5cacd69bd81d7519f96afd5dcfa80fe035de0ad1/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/5cacd69bd81d7519f96afd5dcfa80fe035de0ad1/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.aarsy.googlemapsanimations/googlemapsanimations/1.0.5/6163a63dcd6ac0cd55ce7731bfd4df171bf06d76/googlemapsanimations-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
